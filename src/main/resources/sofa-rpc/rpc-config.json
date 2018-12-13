@@ -1,0 +1,4 @@
+{
+  "rpc.config.order": 300,  // 加载顺序，越大越后加载
+  "default.tracer" : ""
+}
